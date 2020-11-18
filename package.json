@@ -1,0 +1,31 @@
+{
+  "name": "checklist",
+  "version": "1.0.0",
+  "description": "Checklist API",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djail1313/checklist-nodejs.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "ExressJS",
+    "Checklist"
+  ],
+  "author": "Suhar Prasetyo <suhar.tyo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djail1313/checklist-nodejs/issues"
+  },
+  "homepage": "https://github.com/djail1313/checklist-nodejs#readme",
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "supertest": "^6.0.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
